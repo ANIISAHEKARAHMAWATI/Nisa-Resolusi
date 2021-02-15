@@ -3,6 +3,7 @@ Rencana konten Aniisah
 -Javascript
   *ES6
   *Fraamework Javascript
+-Struktur Data Dasar
 -PHP Frameworks
 -Interview 
 -Vlogs
